@@ -167,12 +167,14 @@ main img.pequena {
     width: 400px;
     display: block;
     margin: auto;
+    position: absolute;
 }
 
 main img.grande{
     width: 800px;
     display: block;
     margin: auto;
+    position: absolute;
 }
 
 div.video{
